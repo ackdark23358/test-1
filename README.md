@@ -8,3 +8,11 @@
 2. 원격 저장소 연결하기
 3. 커밋하기
 4. 푸시하기
+
+```javascript
+<script>
+function a() {
+  alert(`backtick`);
+}
+</script>
+```
